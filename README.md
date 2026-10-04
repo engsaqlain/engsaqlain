@@ -30,7 +30,7 @@
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,nodejs,express,firebase,mongodb,sqlite,git,github,postman,figma,vscode,androidstudio&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,nodejs,express,firebase,mongodb,supbase,sqlite,git,github,postman,figma,vscode,androidstudio&perline=7)](https://skillicons.dev)
 
 ---
 
